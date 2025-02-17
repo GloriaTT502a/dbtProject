@@ -1,0 +1,9 @@
+version: 2 
+
+sources:
+  - name: ny_taxi
+    schema: public
+    tables:
+      - name: green_taxi_data
+        description: 'green taxi data'
+        
